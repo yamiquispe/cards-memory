@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccb4f14c65daf4327c9c9420aba0d1e9",
+    "revision": "8d32ce60fe055fe4764ba7b4b90b7020",
     "url": "/cards-memory/index.html"
   },
   {
-    "revision": "00d9b47e77c417c45223",
+    "revision": "506c8e21c09153be6449",
     "url": "/cards-memory/static/css/main.48e107ff.chunk.css"
   },
   {
-    "revision": "ee6045f4478e86ded621",
-    "url": "/cards-memory/static/js/2.626eef98.chunk.js"
+    "revision": "214b303610bf055c51ed",
+    "url": "/cards-memory/static/js/2.a02c38e8.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/cards-memory/static/js/2.626eef98.chunk.js.LICENSE.txt"
+    "url": "/cards-memory/static/js/2.a02c38e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00d9b47e77c417c45223",
-    "url": "/cards-memory/static/js/main.a166c4de.chunk.js"
+    "revision": "506c8e21c09153be6449",
+    "url": "/cards-memory/static/js/main.ab8c2abe.chunk.js"
   },
   {
     "revision": "8e4843f813c23b59c871",
