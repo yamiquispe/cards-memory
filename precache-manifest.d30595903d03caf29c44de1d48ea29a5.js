@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "febdcd3479696d18f89ed9aa6c2b05ea",
+    "revision": "f22ade767a114e699fe6ba2cc95e171d",
     "url": "/cards-memory/index.html"
   },
   {
