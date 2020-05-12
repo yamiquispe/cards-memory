@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b8271f3bdd55332fcd97bbffe604870",
+    "revision": "e326bd7a86133f46fc57838ce0f3e6b6",
     "url": "/cards-memory/index.html"
   },
   {
-    "revision": "0e2e2d732b293c3f28dc",
-    "url": "/cards-memory/static/css/main.48e107ff.chunk.css"
+    "revision": "cc7a7cfb42a3671927db",
+    "url": "/cards-memory/static/css/main.9a5d43ee.chunk.css"
   },
   {
     "revision": "ce325699e18aaf007bef",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cards-memory/static/js/2.d42907f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e2e2d732b293c3f28dc",
-    "url": "/cards-memory/static/js/main.afe525ba.chunk.js"
+    "revision": "cc7a7cfb42a3671927db",
+    "url": "/cards-memory/static/js/main.5a6824b2.chunk.js"
   },
   {
     "revision": "8e4843f813c23b59c871",
