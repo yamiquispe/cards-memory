@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc37892aeb74e06e3e08cbb332fc97ef",
+    "revision": "8768b5d891b81d52874f0aa20b0d421f",
     "url": "/memory-game/index.html"
   },
   {
-    "revision": "911272bee41ba95312b5",
-    "url": "/memory-game/static/css/main.417bcbf3.chunk.css"
+    "revision": "cfc0da4a2466a888d28f",
+    "url": "/memory-game/static/css/main.2d7ba58d.chunk.css"
   },
   {
-    "revision": "a65af66023dbd5c8f801",
-    "url": "/memory-game/static/js/2.dbd717bb.chunk.js"
+    "revision": "2939091296d5580b4353",
+    "url": "/memory-game/static/js/2.8bd41d0f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/memory-game/static/js/2.dbd717bb.chunk.js.LICENSE.txt"
+    "url": "/memory-game/static/js/2.8bd41d0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "911272bee41ba95312b5",
-    "url": "/memory-game/static/js/main.c9ff6d21.chunk.js"
+    "revision": "cfc0da4a2466a888d28f",
+    "url": "/memory-game/static/js/main.ab641c0f.chunk.js"
   },
   {
-    "revision": "147bea6398c6255371d9",
-    "url": "/memory-game/static/js/runtime-main.ea5bee39.js"
+    "revision": "ad138a7676febb402a84",
+    "url": "/memory-game/static/js/runtime-main.c98553d9.js"
   },
   {
     "revision": "f2879c73d504d3c2c4db84b4ff8b09eb",
